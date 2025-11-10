@@ -47,9 +47,9 @@
 |------|------|
 | **Language** | Java |
 | **GUI Framework** | Swing |
-| **Database** | 텍스트 파일 기반 (File I/O) |
-| **Architecture** | MVC 구조 일부 적용 |
-| **Tools** | Eclipse / IntelliJ IDEA |
+| **Database** | MySQL |
+| **Architecture** | MVC 구조 적용 |
+| **Tools** | Eclipse |
 
 ---
 
